@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "fastify": "^4.28.1",
     "nlw-pocket": "file:",
     "nlw-pocket-api": "file:"
   },
