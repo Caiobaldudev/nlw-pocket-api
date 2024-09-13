@@ -15,10 +15,22 @@ Essa é a API do projeto in.orbit, uma aplicação para gerenciamento de metas s
 - Day.js - Manipulação de datas.
 - Fastify CORS - Configuração de CORS.
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Motorway.png" alt="Motorway" width="45" height="45" /> Endpoints
+## POST
+- POST /goals: Criação de uma nova meta.
+- POST /completions: Registro de conclusão de uma meta.
+## GET
+- GET /pending-goals: Recupera metas pendentes.
+- GET /summary: Resumo semanal das metas.
+
 ## 🧑‍🚀 Autor
 
 <p align="center">
   <a href="https://github.com/Caiobaldudev">
     <img src="https://github.com/Caiobaldudev.png" alt="Caio Balduino" width="80">
   </a>
+</p>
+
+<p align="center">
+  Este projeto foi desenvolvido por <strong>Caio Balduino</strong> No evento NLW Pocket FullStack da Rocketseat.
 </p>
