@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="45" height="45" /> in.orbit - Backend
 
-Essa é a API do projeto in.orbit, uma aplicação para gerenciamento de metas semanais, desenvolvida com Fastify e PostgreSQL. Este é o backend da aplicação, criado como parte do evento NLW Pocket FullStack da Rocketseat.
+Essa é a API do projeto in.orbit, uma aplicação para gerenciamento de metas semanais, desenvolvida com Fastify e PostgreSQL. Este é o backend da aplicação, criado como parte do evento NLW Pocket FullStack da Rocketseat. (Não foi feito deploy do projeto pois será feito uma nova versão mais completa)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" /> Tecnologias Utilizadas
 
